@@ -4,6 +4,8 @@ Python 3 Function NodeRED Node
 Extension of original package from Arrnau Orriols
 https://github.com/arnauorriols/node-red-contrib-python-function
 
+csu varaiant modifies node color to differentiate from the javascript function and runs under python3
+
 
 Install
 -------
